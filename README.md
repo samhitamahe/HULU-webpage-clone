@@ -45,7 +45,7 @@ To run this project locally:
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/your-username/hulu-webpage-clone/raw/main/path-to-your-image/1.JPG)
+![Screenshot 1]([https://github.com/your-username/hulu-webpage-clone/raw/main/path-to-your-image/1.JPG](https://github.com/samhitamahe/HULU-webpage-clone/blob/main/1.JPG?raw=true))
 
 ## Usage
 
